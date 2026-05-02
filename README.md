@@ -1,4 +1,4 @@
-# Sky Rose: Canadian Alcohol Sales Analysis & Forecasting
+# Consumer Demand Forecasting
 
 An end-to-end time series analysis project exploring the sales dynamics of **Whisky**, **White Wine**, and **Craft Beer** in the Canadian market. This project utilizes statistical decomposition and advanced forecasting models (Exponential Smoothing and SARIMA) to understand market trends and seasonality.
 
