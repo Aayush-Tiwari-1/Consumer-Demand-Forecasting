@@ -9,6 +9,13 @@ This project addresses a critical operational challenge for a marketing agency f
 *   **Objective:** Transition to proactive operations by forecasting interest in core categories: **Whisky, White Wine, and Craft Beer**[cite: 5].
 *   **Goal:** Enable leadership to smooth cyclical workloads and optimize project timelines for 2026[cite: 5, 6].
 
+## 💻 Tech Stack
+* **Language:** Python 3.12
+* **Modeling:** `statsmodels`, `pmdarima`
+* **Data Science:** `pandas`, `numpy`, `scikit-learn`
+* **Visualization:** `matplotlib`, `seaborn`
+* **Environment:** Google Colab / Jupyter Notebook
+
 ## 🛠️ Technical Workflow
 ### 1. Data Engineering & Decomposition
 *   **Source:** 5 years of historical Google Trends (Relative Search Volume)[cite: 5].
